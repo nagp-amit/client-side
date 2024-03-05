@@ -1,0 +1,9 @@
+.personal-details-container {
+    border: solid 1px green;
+    padding: 15px;
+    width: 250px;
+}
+
+.label {
+    color: rgb(110, 91, 234);
+}
